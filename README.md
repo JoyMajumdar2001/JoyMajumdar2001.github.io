@@ -17,3 +17,6 @@ I'm an android developer...
 
 ## 🛠 Skills
 Kotlin, Javascript, Java, Python, HTML
+
+## 📈 My Github Stats
+![Joysankar's Github Stats](https://github-readme-stats.vercel.app/api?username=JoyMajumdar2001&show_icons=true&theme=merko)
